@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Priority {
+public class PriorityNP {
 
     public static void main(String[] args) {
 
